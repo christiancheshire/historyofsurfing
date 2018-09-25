@@ -1,0 +1,18 @@
+body {
+  font-family: 'Pathway Gothic One', sans-serif;
+  color: orange;
+  margin: 10px 50px 10px 50px;
+  background-color: ivory;
+  background-image: url("https://cdn.surfer.com/uploads/2015/05/drop-in-noyle.jpg");
+}
+
+h1, h2 {
+  font-family: 'Pathway Gothic One', sans-serif;
+  text-align: center;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+  margin-right: 10px;
+}
